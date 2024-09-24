@@ -1,8 +1,8 @@
-li :first-child {
+li:first-child {
     font-weight: bold;
 }
 
-a :last-child {
+li:last-child a {
     color: red;
 }
 
